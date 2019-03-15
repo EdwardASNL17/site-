@@ -1,0 +1,281 @@
+body{background-color: #edeef0}
+*{
+	margin:0;
+	padding: 0;
+	font-family: arial;
+}
+header
+{
+	position: absolute;
+	float: left;
+	width: 100%;
+	height: 60px;
+	background-color: #4d71a9;
+	font-size: 18px;
+	line-height: 10px;
+}
+header img
+{
+	float: left;
+	width: 12%;
+	height: 100%;
+	border-radius: 20px;
+}
+header input
+{
+	margin-top: 17px;
+	margin-left: 5px;
+	width: 228px;
+	height: 20px;
+	border-radius: 5px;
+	outline-style: none;
+	outline-width: 0px;
+	outline-color: 0px;
+}
+header a
+{
+	float: center;
+
+	position: relative;
+	text-decoration: none;
+	color: #e8eff7;
+	margin-left: 25px;
+}
+#home img
+{
+	width: 35px;
+	height: 35px;
+	margin-top: -6px;
+}
+#home 
+{
+	float: right;
+	margin:20px 22px ;
+}
+#home span
+{
+	float: left;
+	margin-top: 4px;
+}
+#spanc a:hover
+{
+	background-color: #3d6898;
+	border-radius: 5px;
+}
+body{background-color: #edeef0}
+#tread{ 
+position: absolute; 
+float: left; 
+top: 65px; 
+left:235px; 
+width: 180px; 
+height: 30px; 
+font-size: 1.25em; 
+line-height: 175%; 
+}
+#tread a
+{
+	text-decoration: none;
+	color: #31628a;
+}
+#tread p 
+{ 
+float: left;
+margin:10px 0px;
+font-size: 20px; 
+} 
+#tread p:hover 
+{ 
+margin:2px 0px;
+padding:8px 0px;
+background-color:#e1e5eb; 
+border-radius: 5px; 
+}
+#feed
+{
+	position: absolute;
+	left: 490px;
+	top: 70px;
+	width: 750px;
+	height: 80px;
+	background-color: white;
+	border-radius: 8px;
+}
+#feedprof img
+{
+	float: left;
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	margin: 20px;
+}
+#feed input
+{
+	float: left;
+	width:450px;
+	height: 80px; 
+	background-color: white;
+	border-radius: 8px;
+	margin-left: 5px;
+	border: 0px;
+	outline-style: none;
+	outline-width: 0px;
+	outline-color: 0px;
+	font-size: 18px;
+}
+#feedphoto img
+{
+	float: left;
+	margin: 25px 2px;
+	margin-left: 40px;
+	width: 38px;
+	height: 30px;
+}
+#feedvideo img
+{
+	margin: 25px 2px;
+	float:left;
+	width: 38px;
+	height: 30px;
+}
+#feedmusic img
+{
+	margin: 25px 2px;
+	float: left;
+	width: 38px;
+	height: 30px;
+}
+#feeditem img
+{
+	margin: 24px 2px;
+	float: left;
+	width: 38px;
+	height: 30px;
+}
+#postec
+{
+	position: absolute;
+	left: 490px;
+	top: 180px;
+	width: 750px;
+	height: 625px;
+	background-color: white;
+	border-radius: 8px;
+	
+}
+#groupphoto img
+{
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 20px 10px;
+	border-radius: 90px;
+}
+#groupurl
+{
+	float: left;
+	margin-left:4px; 
+	margin-top:35px;
+	color: #2a5885;
+	text-decoration: none;
+}
+#groupurl:hover
+{
+	float: left;
+	text-decoration: underline;
+}
+#treug
+{	
+	float: right;
+	margin-right: 0px; 
+	margin-top: 20px;
+	width: 60px;
+	height: 40px; 
+}
+#postphoto
+{
+	position: absolute;
+	margin: 90px 15px; 
+	width: 600px;
+	height: 350px;
+}
+#postphoto img
+{	
+	float: left;
+	margin-top: 5px;
+	width: 720px;
+	height: 433px;
+}
+hr 
+{ 
+float: left; 
+margin-top: 10px; 
+width: 720px; 
+size: 5px; 
+background-color: black; 
+}
+#infoline
+{
+	position: absolute;
+	margin: 450px 0px;
+	width: 720px;
+	height: 71px;
+	
+}
+
+#like img
+{
+	float: left;
+	width: 53px;
+	height: 51px;
+	margin-left:-10px;
+}
+#like span
+{
+	float: left;
+	margin: 20px -4px;
+	color: #67707a;
+}
+#comment img
+{
+	float: left;
+	width: 53px;
+	height: 51px;
+	margin-left:15px;
+}
+#comment span
+{
+	float: left;
+	margin: 20px -4px;
+	color: #67707a;
+}
+#repost img
+{
+	float: left;
+	width: 53px;
+	height: 51px;
+	margin-left:20px;
+}
+#repost span
+{
+	float: left;
+	margin: 20px -4px;
+	color: #67707a;
+}
+#viewers img
+{
+	float: left;
+	width: 70px;
+	height: 51px;
+	margin-left: 380px;
+	margin-top: 4px;
+
+}
+#viewers span
+{
+	float: right;
+	margin-right: 0px;
+	margin-top: -34px;
+	color: #67707a;
+	
+}
